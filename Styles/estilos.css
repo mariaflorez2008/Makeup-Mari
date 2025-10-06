@@ -1,0 +1,29 @@
+.colorUno{
+    background-color: #eeb8ea;
+
+}
+
+.colorDos{
+    background-color: #ffb5d9;
+
+}
+
+.colorTres{
+    background-color: #b8aaea;
+}
+
+.fuente {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.fondo{
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
